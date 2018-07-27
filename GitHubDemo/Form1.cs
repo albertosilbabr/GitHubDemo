@@ -19,7 +19,8 @@ namespace GitHubDemo
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Teste GitHub");
+            MessageBox.Show("Teste GitHub efetuado com sucesso!");
+
         }
     }
 }
